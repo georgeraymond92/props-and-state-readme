@@ -19,3 +19,6 @@
 ### Setup
 Runs in the browser from index.html
 
+## UML
+![UML](UML.JPG)
+
